@@ -1,17 +1,13 @@
 # ExamBuilder
 
-<div style='display:flex;flex-direction:column;'>
-   <img style='align-self:center' src='./exam-builder/public/logo.png' alt='logo' width='160' height='160'/>
-   <p style='text-align:center'>Build Knowledge, Master Topics: Interactive Learning with Smart Questionnaires<p>
-   <div style='align-self:center'>
+<img src='/dist/logo.png' alt='logo' width='160' height='160'/>
+<p>Build Knowledge, Master Topics: Interactive Learning with Smart Questionnaires<p>
 
 [![Open issues][issues-badge]][issues-url]
 ![HTML][html-badge]
 ![css3][css3-badge]
 ![TypeScript][typescript-badge]
 ![Rsbuild][rust-badge]
-</div>
-</div>
 
 ## Description
 
