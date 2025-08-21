@@ -1,6 +1,6 @@
 # ExamBuilder
 
-<img src='/dist/logo.png' alt='logo' width='160' height='160'/>
+<img src='/logo.png' alt='logo' width='160' height='160'/>
 <p>Build Knowledge, Master Topics: Interactive Learning with Smart Questionnaires<p>
 
 [![Open issues][issues-badge]][issues-url]
