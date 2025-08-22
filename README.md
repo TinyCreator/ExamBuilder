@@ -28,6 +28,13 @@ Users can either fill out a form or input a JSON object to construct their quest
 {"title":"","questionnarire":[{"question": "","options": ["", "", ""],"answer": "Number in options range (start at 0)","description": ""},...]}
 ```
 
+> [!CAUTION]
+>  Any JSON added through the form is not validated. This can cause the app to break.
+> 
+>  The only way to fix it at the moment is to manually delete the **TinyCreator_ExamBuilder** key from your browser's localStorage at:
+> 
+> `Developer Tools > Application > LocalStorage > https://tinycreator.github.io`
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
